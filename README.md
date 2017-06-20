@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+This project demonstration offline website.
+
+# Usage
+
+Open index.html and enjoy.
 
 # Project Goals
 
